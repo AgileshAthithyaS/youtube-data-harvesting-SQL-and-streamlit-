@@ -37,7 +37,7 @@ Get all items
 ##### Author
 (AGILESH ATHITHYA S )
 ------------------------------------
-( https://github.com/AgileshAthithyaS/Capstone-Project---Youtube-Data-Harvesting-and-Warehousing)
+( https://github.com/AgileshAthithyaS/youtube-data-harvesting-SQL-and-streamlit-)
 (http://localhost:8502/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
